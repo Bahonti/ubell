@@ -1,0 +1,73 @@
+.rend_car{
+    background: #DCE2E9
+}
+.searchCar_text{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.searchCar_text h3{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 40px;
+    line-height: 40px;
+    color: #2E3844;
+    margin: 0;
+}
+.searchCar_text p{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 20px;
+    line-height: 25px;
+    color: #2E3844;
+    margin: 30px 0;
+}
+
+.search-car{
+    padding: 60px 70px 120px 20px;
+    position: relative;
+}
+
+.searchCar_photo-big {
+    background: rgba(255, 255, 255, 0.5);
+    border: 2px solid #32A94C;
+    box-sizing: border-box;
+    border-radius: 12px;
+    padding: 25px 10px;
+}
+
+.searchCar_photo-big img {
+    width: 600px;
+}
+
+.searchCar_photo-small {
+    display: flex;
+    justify-content: space-between;
+    width: 320px;
+    position: absolute;
+    top: 230px;
+    right: 0;
+}
+
+.photo-small img {
+    height: 240px;
+}
+.photo-small {
+    background: rgba(255, 255, 255, 0.7);
+    border: 2px solid #32A94C;
+    box-sizing: border-box;
+    border-radius: 12px;
+    padding: 20px 10px;
+}
+
+.searchCar_photo-big p {
+    margin: 0;
+    color: #32A94C;
+    line-height: 31px;
+    font-size: 28px;
+    align-items: center;
+    display: flex;
+    justify-content: flex-start;
+}

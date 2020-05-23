@@ -1,0 +1,39 @@
+
+ul>li>a{
+    font-family: Fira Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 17px;
+    letter-spacing: 0.05em;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    margin-right: 30px;
+    cursor: pointer;
+}
+.menu_logo {
+    margin: 18px 0;
+}
+ul {
+    display: flex;
+    justify-content: space-between;
+}
+
+ul>li {
+    list-style: none;
+}
+
+.menu_icon {
+    display: flex;
+    align-items: center;
+}
+
+.icons {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.icons a {
+    margin-left: 20px;
+}

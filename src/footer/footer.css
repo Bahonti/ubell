@@ -1,0 +1,35 @@
+.menu_logo img {
+    width: 120px;
+}
+.footer-car {
+    display: flex;
+    align-items: center;
+}
+
+.mail-car {
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+}
+.footer-car_text{
+    font-family: Fira Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 22px;
+    letter-spacing: 0.03em;
+    color: #FFFFFF;
+    margin-left: 20px;
+    margin-bottom: 5px;
+    text-decoration: none;
+}
+.footer-ubell a{
+    font-family: Fira Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 19px;
+    text-decoration-line: underline;
+    color: #FFFFFF;
+    text-decoration: none;
+}

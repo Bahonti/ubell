@@ -1,0 +1,57 @@
+.category-car{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 40px;
+    line-height: 50px;
+    color: #D3DDE9;
+}
+
+.category_car img {
+    width: 290px;
+}
+
+.category {
+    padding: 60px 0;
+    display: flex;
+    flex-direction: column;
+}
+.category_car {
+    display: flex;
+    justify-content: space-between;
+    margin: 45px 0 15px 0;
+}
+.category_numb span{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 30px;
+    text-align: center;
+    letter-spacing: 0.05em;
+    text-transform: uppercase;
+    color: #FFFFFF;
+}
+
+.category_numb p{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 40px;
+    line-height: 0;
+    color: #66707B;
+    margin-bottom: 0;
+}
+
+.category_line {
+    display: flex;
+    justify-content: space-between;
+    margin: 0 45px;
+}
+
+.category_numb {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}

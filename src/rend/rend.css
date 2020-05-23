@@ -1,0 +1,71 @@
+.rend_car-text>p>span{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 55px;
+    line-height: 50px;
+    color: #32A94C;
+}
+.rend_car-text>p{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 26px;
+    line-height: 50px;
+    color: #2E3844;
+}
+.rend_car-block1{
+    background: #2E3844;
+}
+.rend_car-block2{
+    background: #14621E;
+}
+.rend_car-block3{
+    background: #32A94C;
+}
+.block{
+    border-radius: 3px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 16px;
+    width: 200px;
+    margin-left: 20px;
+}
+.gray_car{
+    background: #DCE2E9
+}
+
+.rend_car-block {
+    display: flex;
+    margin: 80px 0;
+}
+
+.rend_car-text {
+    margin: 60px 20px 0 0;
+}
+
+.block span {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 20px;
+    color: #FFFFFF;
+    height: 20px;
+    margin: 15px 0;
+}
+
+.block img{
+    height: 45px;
+}
+
+.block p {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 20px;
+    color: #FFFFFF;
+    margin-bottom: 0;
+}
